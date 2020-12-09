@@ -1,5 +1,7 @@
 # static2000-nunjucks
 
+> This package has moved into the [Static2000 monorepo](https://github.com/judas-christ/static2000).
+
 Nunjucks adapter for [Static2000](https://github.com/judas-christ/static2000).
 
 ## Installation
